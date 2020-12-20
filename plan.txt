@@ -1,0 +1,22 @@
+create an issue for everything in wmn-design-system/src/wmnds/components/
+that's the source path
+
+also for all in /patterns
+
+
+all in wmn-design-system/src/www/pages/components/
+/patterns
+/styles
+/user-research
+
+basically, those ones don't have a source in the above
+
+
+
+Plan:
+start with all dirs in wmn-design-system/src/www/pages
+
+https://designsystem.wmnetwork.co.uk/components/buttons/
+is the url for the other one
+
+
